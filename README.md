@@ -2,6 +2,7 @@
 
 Welcome to your new SnapShot project and the Internet computer development community. Our privacy-focused notes-keeping app built on the Internet Computer Protocol (ICP) blockchain aims to rectify centralized database issues. 
 
+<img width="960" alt="Screenshot 2023-12-02 100821" src="https://github.com/s2ahil/SnapShot-ICP/assets/101473078/49540cee-1d32-4203-9580-5789216edc75">
 
 
 
