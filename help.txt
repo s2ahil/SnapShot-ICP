@@ -1,0 +1,6 @@
+No production canister_ids.json found
+npm install webpack-cli@4.10.0 --save-dev
+
+then
+
+npm start
