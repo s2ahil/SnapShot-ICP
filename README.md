@@ -32,15 +32,16 @@ dfx config --help
 
 If you want to test your project locally, you can use the following commands:
 
-1st command : npm install
+
 
 
 ```bash
 # Starts the replica, running in the background
-dfx start --background
+1st command : npm install
+2nd command : dfx start --background
 
 # Deploys your canisters to the replica and generates your candid interface
-2nd command : dfx deploy
+3rd command : dfx deploy
 ```
 
 Once the job completes, your application will be available at `http://localhost:8000?canisterId={asset_canister_id}`.
