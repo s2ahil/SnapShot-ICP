@@ -1,6 +1,14 @@
 # SnapShot
 
-Welcome to your new SnapShot project and to the internet computer development community. Our privacy-focused notes keeping app built on the Internet Computer Protocol (ICP) blockchain aims to rectify these issues. 
+Welcome to your new SnapShot project and the Internet computer development community. Our privacy-focused notes-keeping app built on the Internet Computer Protocol (ICP) blockchain aims to rectify centralized database issues. 
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
