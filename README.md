@@ -23,7 +23,7 @@ To learn more before you start working with dkeeper, see the following documenta
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd dkeeper/
+cd SnapShot-ICP/
 dfx help
 dfx config --help
 ```
@@ -32,12 +32,15 @@ dfx config --help
 
 If you want to test your project locally, you can use the following commands:
 
+1st command : npm install
+
+
 ```bash
 # Starts the replica, running in the background
 dfx start --background
 
 # Deploys your canisters to the replica and generates your candid interface
-dfx deploy
+2nd command : fx deploy
 ```
 
 Once the job completes, your application will be available at `http://localhost:8000?canisterId={asset_canister_id}`.
@@ -45,7 +48,7 @@ Once the job completes, your application will be available at `http://localhost:
 Additionally, if you are making frontend changes, you can start a development server with
 
 ```bash
-npm start
+3rd command :npm start
 ```
 
 Which will start a server at `http://localhost:8080`, proxying API requests to the replica at port 8000.
